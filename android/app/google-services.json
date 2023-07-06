@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "944525518674",
+    "project_id": "chatty-87935",
+    "storage_bucket": "chatty-87935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944525518674:android:b848a1c67b76de0d2c7c8b",
+        "android_client_info": {
+          "package_name": "com.dbestech.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944525518674-1vq08oqtp4cba9oir0s3b6b3m80cef0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dbestech.chatty",
+            "certificate_hash": "0e5ead6add6fc8d27bb2f2d93889ec0fb2ee1431"
+          }
+        },
+        {
+          "client_id": "944525518674-8re4ts978sibja2hml3f2ij65jsor1lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8WXBT55wpUOf7JiDPIiVekbRkijIVf68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944525518674-8re4ts978sibja2hml3f2ij65jsor1lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944525518674-mfnd5kcuh03ce596hb7fi8hfo64av611.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.chatty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
